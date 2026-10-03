@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+openmeteo-requests
+requests-cache
+retry-requests
